@@ -2,7 +2,6 @@
 
 This project demonstrates how to set up a local large language model (LLM) and a Retrieval-Augmented Generation (RAG) system using Ollama and FastAPI.
 
----
 
 ### 🛠️ Getting Started
 
