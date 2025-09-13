@@ -7,3 +7,4 @@ pandas
 fastapi
 sqlalchemy
 uvicorn
+python-multipart
